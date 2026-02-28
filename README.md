@@ -9,7 +9,9 @@ This lecture covers the following key topics and algorithms:
 *   **Multi-Armed Bandits (MAB):**
     *   The exploration-exploitation dilemma.
     *   Epsilon-Greedy strategy.
+    *   Epislion-Greedy strategy with scheduling.
     *   Upper Confidence Bound (UCB) strategy.
+    *   Stochastic Bandits.
       
 *   **Value-Based Methods:**
     *   Q-Values vs. Rewards.
