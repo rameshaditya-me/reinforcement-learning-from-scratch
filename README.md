@@ -11,6 +11,8 @@ This lecture extends the wonderful series by [norhum](https://github.com/norhum/
     *   Upper Confidence Bound (UCB) strategy.
     *   Stochastic Bandits.
     *   Neural Bandits
+    *   Tackling non stationarity in bandits.
+    *   Real Life use case of bandits
       
 *   **Value-Based Methods:**
     *   Q-Values vs. Rewards.
