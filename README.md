@@ -12,6 +12,7 @@ This lecture covers the following key topics and algorithms:
     *   Epislion-Greedy strategy with scheduling.
     *   Upper Confidence Bound (UCB) strategy.
     *   Stochastic Bandits.
+    *   Neural Bandits
       
 *   **Value-Based Methods:**
     *   Q-Values vs. Rewards.
