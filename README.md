@@ -1,8 +1,6 @@
 # Reinforcement Learning From Scratch
 
-Welcome to the code repository for the "Reinforcement Learning From Scratch" lecture series!
-
-This lecture covers the following key topics and algorithms:
+This lecture extends the wonderful series by (norhum)[https://github.com/norhum/reinforcement-learning-from-scratch] with additional topics and math equations. This lecture series covers the following key topics and algorithms:
 
 *   **Introduction to RL:** Agent-Environment interaction loop, States, Actions, Rewards, Policy.
   
